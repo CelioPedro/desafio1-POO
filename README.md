@@ -1,4 +1,4 @@
-<h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
+<h2> Paradigma de Programação Orientado a Objetos (POO) </h2>
 
 <p>
 A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.<br>
